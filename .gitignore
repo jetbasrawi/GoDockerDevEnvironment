@@ -1,0 +1,7 @@
+go
+docker
+.vagrant
+vagrant_files/startup_actions.sh
+docker-registry
+vagrant_files/evbackup
+vagrant_files/ssh
